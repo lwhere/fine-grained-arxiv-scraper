@@ -138,7 +138,7 @@ def main(args):
     papers = fetch_arxiv_data(start_date, end_date, subject)
     
     # save papers' info
-    papers = papers[:3]
+    # TODO
     
     end_time = time.time()
     
