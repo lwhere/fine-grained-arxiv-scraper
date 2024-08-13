@@ -124,8 +124,8 @@ def organize_pdfs_by_category(papers, base_folder):
     print("PDF organization completed.")
 
 def main():
-    start_date = "2024-08-02"
-    end_date = "2024-08-04"
+    start_date = "2024-08-05"
+    end_date = "2024-08-05"
     subject = "cs"  # For computer science
     
     # Create output folder with date range
