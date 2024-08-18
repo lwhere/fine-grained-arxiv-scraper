@@ -9,4 +9,4 @@ pip install flash_attn==1.0.6
 
 
 ## sample_output  
-output of no-caption-model  
+outputs of no-caption-model  
